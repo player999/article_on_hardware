@@ -1,4 +1,7 @@
-article_on_hardware
+Short about
 ===================
 
-My new article on universal representation of computing devices 
+1. Shortly describe outr concept of hardware design.
+2. Universal representation of computing device
+3. Representation of computing device in Qsys
+4. Linux driver for the computig device
