@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"dev_base"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"VIR",
+				"virt_base"
+			],
+			[
+				"dev",
+				"dev_base"
+			],
+			[
+				"print",
+				"printk"
+			],
+			[
+				"pri",
+				"printk"
+			],
+			[
+				"mod",
+				"module_init"
+			],
+			[
+				"boot",
+				"bootargs"
+			],
+			[
+				"res",
+				"res_json"
+			],
+			[
+				"i",
+				"input_file"
+			],
+			[
+				"ST",
+				"ST_SIGNAL"
+			],
+			[
+				"s",
+				"start_point2"
+			],
+			[
+				"f",
+				"function_name"
+			],
+			[
+				"m",
+				"module"
+			],
+			[
+				"en",
+				"endmodule"
+			],
+			[
+				"mo",
+				"module_condition"
+			],
+			[
+				"D",
+				"DOUT"
+			],
+			[
+				"a",
+				"assign"
+			],
+			[
+				"fi",
+				"file_list"
+			],
+			[
+				"DAT",
+				"DAT_O"
+			],
+			[
+				"DA",
+				"DAT_O"
+			],
+			[
+				"S",
+				"STB_I"
+			],
+			[
+				"wr",
+				"wr_signals"
+			],
+			[
+				"he",
+				"hello_exit"
+			],
+			[
+				"hello",
+				"hello_init"
+			],
+			[
+				"I",
+				"IRQ_O"
+			],
+			[
+				"reg",
+				"regs"
+			],
+			[
+				"re",
+				"reg"
+			],
+			[
+				"Q",
+				"QPROJ"
+			],
+			[
+				"av",
+				"accelerting_device"
+			],
+			[
+				"LW",
+				"LW_MASTER_OFFSET"
+			],
+			[
+				"Toke",
+				"TokenParser"
+			],
+			[
+				"so",
+				"sourceFile"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"route",
+				"route_t"
+			],
+			[
+				"rou",
+				"route_copy"
+			],
+			[
+				"rot",
+				"route_copy"
+			],
+			[
+				"cop",
+				"copy_list"
+			],
+			[
+				"t",
+				"tmp_time"
+			],
+			[
+				"nxt",
+				"nxt_head"
+			],
+			[
+				"st",
+				"station_c"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"sta",
+				"station"
+			],
+			[
+				"stat",
+				"station"
+			],
+			[
+				"rout",
+				"route_t"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"co",
+				"connections"
+			],
+			[
+				"c",
+				"connections"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"n",
+				"nxt"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"set",
+				"set_stats"
+			],
+			[
+				"sr",
+				"set_matrix"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"wo",
+				"word2"
+			],
+			[
+				"le",
+				"levenshtein"
+			],
+			[
+				"ti",
+				"time_taken"
+			],
+			[
+				"entr",
+				"entry"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"dep",
+				"dep_time"
+			],
+			[
+				"cit",
+				"cities"
+			],
+			[
+				"ra",
+				"races"
+			],
+			[
+				"rc",
+				"race"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"plo",
+				"plot_list"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"lol",
+				"lolka"
+			],
+			[
+				"p",
+				"people"
+			],
+			[
+				"pop",
+				"people_text"
+			],
+			[
+				"pe",
+				"people_text"
+			],
+			[
+				"AC",
+				"ACCELERATOR_NAME"
+			],
+			[
+				"file",
+				"file_entry"
+			],
+			[
+				"FIL",
+				"FILE_LIST"
+			],
+			[
+				"A",
+				"ACCELERATOR_DNAME"
+			],
+			[
+				"rin_r",
+				"rin_rsout"
+			],
+			[
+				"node",
+				"node_list"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"pro",
+				"program"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"ret",
+				"retval"
+			],
+			[
+				"prep",
+				"preprocess_file"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Introduction.txt",
+			"settings":
+			{
+				"buffer_size": 1396,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/arm_crosscompile.sublime-build",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"for i in range(0,10):",
+			"quit()",
+			"help()",
+			"help",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/player999/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/player999/Work/map_grabber/mapgrabber.py",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator/accelerator.c",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator_km/accelerator.c",
+		"/home/player999/.cache/.fr-AEwfxw/KeiNett Launcher/THE DONT READ ME FILE.txt",
+		"/home/player999/.cache/.fr-yihUPK/Scripts/inputCustomize.py",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator_km/README.md",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator_km/userspace_test.c",
+		"/home/player999/Work/Iaroslav_site/html5up-prologue/index.html",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator/clean.sh",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator/compile_host.sh",
+		"/home/player999/Work/disseratation/My_articles/article_on_hardware/Introduction.txt",
+		"/home/player999/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/player999/Work/Ubuntu1404_linux313_source/include/linux/sysfs.h",
+		"/home/player999/Work/Ubuntu1404_linux313_source/include/linux/kobject.h",
+		"/tmp/програма_2014.doc",
+		"/home/player999/.cache/.fr-wr8ako/Scripts/_template_BoldItalic.txt",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator/Makefile",
+		"/home/player999/Work/disseratation/own_distro/modules/accelerator/s",
+		"/home/player999/Work/disseratation/own_distro/modules/hello/compile.sh",
+		"/home/player999/.cache/.fr-q0neuw/DEBIAN/control",
+		"/home/player999/Work/disseratation/own_distro/linux-socfpga/.config",
+		"/home/player999/Work/disseratation/own_distro/u-boot-socfpga/README",
+		"/home/player999/Work/disseratation/own_distro/u-boot-socfpga/include/configs/socfpga_cyclone5.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/include/configs/socfpga_cyclone5.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/include/configs/socfpga_common.h",
+		"/tmp/[kickass.to]what.if.serious.scientific.answers.by.randall.munroe.pdf.davcb69.torrent",
+		"/home/player999/.cache/.fr-JQY24a/Prikols/Humor/ARMY.TXT",
+		"/home/player999/.cache/.fr-MQOoBk/Prikols/Humor/HUMOR.TXT",
+		"/home/player999/.cache/.fr-jAz21b/Prikols/Humor/SYSOP/SYSOP.TXT",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/common/main.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/common/cmd_help.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/arch/arm/cpu/arm926ejs/mxs/mxs.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/common/hush.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/common/command.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/arch/arm/imx-common/cmd_bmode.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/include/linker_lists.h",
+		"/home/player999/Work/disseratation/own_distro/u-boot-socfpga/include/linker_lists.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/common/cmd_nvedit.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/include/command.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/include/config_cmd_default.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/Makefile",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/include/generated/version_autogenerated.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/u-boot.lds",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/make_partition.sh",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/board/altera/socfpga/socfpga_cyclone5.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/preloader.ds",
+		"/home/player999/Work/disseratation/own_distro/uBootMMCEnv.txt",
+		"/home/player999/Work/disseratation/own_distro/u-boot-socfpga/fs/ubifs/io.c",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/board/altera/socfpga/iocsr_config_cyclone5.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/board/altera/socfpga/iocsr_config_cyclone5.",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/socfpga.dtb",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/socfpga.dts",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/socfpga.dt",
+		"/media/player999/BOOT/socfpga.dtb",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga/dts/Makefile",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/hps_isw_handoff/soc_system_hps_0/hps.xml",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/hps_isw_handoff/soc_system_hps_0/system.h",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/hps_isw_handoff/soc_system_hps_0/alt_types.h",
+		"/home/player999/Work/disseratation/own_distro/data.img",
+		"/home/player999/Work/disseratation/own_distro/u-boot-socfpga/boards.cfg",
+		"/mnt/grub/menu.lst",
+		"/home/player999/.cache/.fr-u2liDL/results.txt",
+		"/home/player999/Work/dustbox/sasha/testfile.txt",
+		"/home/player999/.cache/.fr-TbAeIj/result5.txt",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/main.c",
+		"/home/player999/.cache/.fr-WVlfsP/result02.txt",
+		"/home/player999/.cache/.fr-dQi167/search.py",
+		"/home/player999/Work/disseratation/own_distro/linux-socfpga/arch/arm/boot/dts/socfpga_cyclone5.dtsi",
+		"/home/player999/Work/disseratation/own_distro/linux-socfpga/arch/arm/boot/dts/socfpga_cyclone5_sockit.dts",
+		"/tmp/make_sd_image",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/tree_parser/treewalk.py",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/tree_parser/lib/arithm.lib",
+		"/home/player999/.cache/.fr-X8KwVD/isolinux/isolinux.cfg",
+		"/home/player999/Work/dustbox/sasha/search.py",
+		"/tmp/search.py",
+		"/home/player999/Work/dustbox/iaroslav/comments.py",
+		"/home/player999/Work/disseratation/own_distro/create_flashdrive",
+		"/home/player999/Work/disseratation/Board_disc/std_image_mount_point/boot/socfpga.dtb",
+		"/tmp/DE1-SoC_User_manual.pdf",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/tree_parser/lib/base.list",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/root.tmp",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/root575461.v",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/composition_r_gen.py",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/composition_r.tmp",
+		"/home/player999/Work/disseratation/My_articles/monography/pics/pr_fsm.mk",
+		"/home/player999/Work/disseratation/My_articles/monography/pics/pr_fsm.gv",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/tree_parser/deleteme.txt",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/root450310.v",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/treewalk.py",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/primitivelib.py",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/pparser.py",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/tree_parser/Makefile",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/tree_parser/verilog/testbench.py",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/tree_parser/verilog/basis/composition_r.tmp",
+		"/home/player999/Work/dustbox/whiletest.v",
+		"/home/player999/Work/dustbox/frontpage/index.html",
+		"/home/player999/Work/disseratation/maltsev_verilog/tree_parser/main_root_testbench.v",
+		"/home/player999/.wine/drive_c/Games/World_of_Tanks/WOTLauncher.cfg",
+		"/home/player999/Work/dustbox/frontpage/main.html",
+		"/home/player999/Work/dustbox/frontpage/menu.html",
+		"/home/player999/Work/disseratation/Articles/Synthesizable_verilog/Synthesizable candidates.txt",
+		"/home/player999/Work/disseratation/My_articles/zvit_1k/zvit.tex",
+		"/home/player999/Work/disseratation/My_articles/monography/tmp/document.log",
+		"/home/player999/Downloads/Adobe Acrobat XI Pro 11.0.07 RePack by D!akov (27.06.2014)/За 22е июля",
+		"/home/player999/Downloads/Adobe Acrobat XI Pro 11.0.07 RePack by D!akov (27.06.2014)/Тихая установка.cmd",
+		"/home/player999/Work/disseratation/My_articles/monography/main.tex",
+		"/home/player999/Work/disseratation/My_articles/monography/main.c",
+		"/home/player999/.conkyrc",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/make_qpf",
+		"/home/player999/Work/kernel/modules/hello.c",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/verilog/slave_avalon.tmp",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/ip/accel/accel.v",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/ip/accelerator/add_accelerator.v",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/test_example.v",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/software/Makefile",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/verilog/accelerator_tcl.tmp",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/ip/accel/accel_hw.tcl",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/ip/accelerator/add_accelerator_hw.tcl",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/slavegenerator.py",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/accel_hw.tcl",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/ip/accelerator/add_accelerator.v.back",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/slave_avalon.tmp",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/accelerator_tcl.tmp",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/slave_data_avalon.txt",
+		"/home/player999/Work/disseratation/maltsev_verilog_pos/slave_generator/slave.tmp",
+		"/home/player999/Work/kernel/modules/Makefile",
+		"/home/player999/Work/disseratation/Board_projects/Pilot/ip/accelerator/add_accelerator_hw.tcl.back"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/player999/Work/disseratation/Board_projects/Pilot/software/spl_bsp/uboot-socfpga",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".",
+			"kobj_kern",
+			"3.17",
+			"CAN",
+			"ALTERA",
+			"Alter",
+			"altera",
+			"Altera",
+			"2013.01.01",
+			"ll_entry_declare",
+			"U_BOOT_CMD_COMPLETE",
+			"CONFIG_CMD_RUN",
+			"do_help",
+			"run",
+			"U_BOOT_CMD",
+			"ll_entry_declare",
+			"_u_boot_list_cmd__end",
+			"ll_entry_count",
+			"find_cmd",
+			"Unknown command '%s' - try 'help'",
+			"Unknown command",
+			"ll_entry_get",
+			"_u_boot_list_",
+			"ll_entry_get",
+			"ll_entry_declare",
+			"define U_BOOT_CMD",
+			"do_mmc",
+			"com",
+			"comman",
+			"define U_BOOT_CMD_COMPLETE",
+			"do_run",
+			"do_run(",
+			"CONFIG_CMD_RUN",
+			"PATCH.APPLY_TARGETS",
+			"patch-apply",
+			"MAKE_ARGS",
+			"uboot",
+			"CONFIG_BLK_DEV_INITRD",
+			"KERNEL",
+			"initrd",
+			"environment va",
+			"enviro",
+			"bootm",
+			"INITRD",
+			"conf",
+			"CONFIG_EXTRA_ENV_SETTINGS",
+			"resc",
+			"mismatched",
+			"Bad image with mismatched CRC",
+			"SEQ.C",
+			"DWMMC",
+			"ALTERA",
+			"ALTERA DWMMC",
+			"ENV",
+			"\\",
+			"promp",
+			"ENV_SET",
+			"ENV",
+			"bin",
+			"comments-l",
+			"endi",
+			"show",
+			"rule",
+			"определенно",
+			"врем",
+			"create_tcl",
+			"IRQ_O",
+			"ST",
+			"period_l_wr_strobe",
+			"end",
+			"s1",
+			"WORD",
+			"writedata",
+			"set_interface_property",
+			"DAT_O",
+			"DAT_o",
+			"DAT_",
+			"DAT_O",
+			"complete = ",
+			"complete =",
+			"complete",
+			"adr",
+			"ST",
+			"DAT_O",
+			"PErmit",
+			"Save",
+			"Load_add",
+			"Filt",
+			"paren",
+			"Token",
+			"makeTokenParser",
+			"letter",
+			"Mld",
+			"MldRel",
+			"\\n",
+			"\\\\",
+			"\\\\indent ",
+			"16 font",
+			"font",
+			"5 setlinewidth",
+			"1 setlinewidth",
+			"width",
+			"\\\\",
+			"\\\\indent ",
+			"\\\\",
+			"\\\\indent",
+			"print",
+			"copy",
+			"city",
+			"<hr>",
+			"vsm_reset",
+			"src=\\\"(.*?)\\\"",
+			"src=(\\\".*?\\\")",
+			" class=\\\".*?\\\"",
+			"WORK",
+			"WOR",
+			"WORK_",
+			"X4",
+			"x4",
+			"root_tb",
+			"Taras Zakharchenko",
+			"Accelerator 855970",
+			"%accelerator_name%",
+			"accelerator_855970",
+			"SLAVEID",
+			"7",
+			"8",
+			"ACK_O"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"avalon_slave",
+			"",
+			"\\t",
+			"3 setlinewidth",
+			"5 setlinewidth",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"race",
+			"src=\"http://www.cvk.gov.ua/pls/vp2014/\\1\"",
+			"",
+			"%AUTHOR_NAME%",
+			"%ACCELERATOR_DNAME%",
+			"%ACCELERATOR_NAME%",
+			"%accelerator_name%",
+			"",
+			"\\n",
+			"\"",
+			"IN",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Introduction.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "HardwareArticle.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

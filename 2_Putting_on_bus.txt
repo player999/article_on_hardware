@@ -1,0 +1,13 @@
+Putting compositional hardware on bus
+===============================================================================
+One of the efficient uses of compositional hardware is running it on CPU based system under control of conventional software. In order to run in on CPU based system, the hardware must be a peripherial device on CPU bus. SoCs with HPU (hardware processor system) included are good solution to do it. FPGA, combined with HPU, can be reconfigured with software running on HPU, this allows to change compositional hardware peripherials in runtime, it is very handy when resources of FPGA are limited. For testing a Altera Cyclone V SoC with quad ARM Cortex-A9 HPU was selected. Peripherials on the FPGA are interconnected with Avalon bus, which bridged to HPU native (AXI) bus.
+Peripherial on the Avalon bus contains following ports:
+* reset signal;
+* clocking (clk) signal;
+* write anable (we) signal;
+* chipselect (strobe);
+* address;
+* input data;
+* output data;
+Addressing on Avalon bus is bytewise, be aware of that in case if inputs of compositional hardware device are more than one byte width. Under the research a generator of Avalon peripherials from compositional hardware device was created. It takes Verilog model of compositional hardware device and wraps it in Avalon peripherial module, and also created TCL file from template, which describes it as peripherial to Altera Qsys SoC designer. So on the output compositional hardware device becomes ready to use peripherial.
+Such devices connected via lightweight HPS-to-FPGA master interface. The lightweight HPS-to-FPGA interface is a 32-bit AXI master that allows HPS masters to issue transactions to the FPGA fabric. The interface is AXI-3 compliant. The HPS-side AXI bridge manages clock crossing, buffering, and data width conversion where necessary. Other interface standards in the FPGA fabric, such as connecting to Avalon-MM interfaces, can be supported through the use of soft logic adaptors. The Qsys system integration tool automatically generates adaptor logic to connect AXI to Avalon-MM interfaces. Each AXI bridge accepts a clock input from the FPGA fabric and performs clock domain crossing internally. The exposed AXI interface operates on the same clock domain as the clock supplied by the FPGA fabric.
