@@ -1,0 +1,3 @@
+Conclusions
+===============================================================================
+This approach to integration of compositional hardware with computing systems is the first approach propsed. It makes compositional hardware able to be used with common software in way which software engineers got used to. The new framework for compositional hardware application can be basis of hybrid computing systems, which will involve compsitional hardware as well as  conventional softwatre. Although, it is many things to do further. Integration with other operating systems, interrupt processing, optimization of argument transfer throughput, improvement of programming model are major directions of future research.

@@ -1,0 +1,14 @@
+Verilog model of compositional hardware
+===============================================================================
+The interface of compositional hardware module includes following ports (fig. 1):
+* RST – reset signal, stops all current processing and clears output;
+* ST – "start" signal, starts a new computation from any internal state, gets valid IN1...INn arguments.;
+* CLK – сlocking signal;
+* RD – "ready" signal, to show that on RES is valid output;
+* RES – the result of computation;
+* IN1...INn – arguments for piece of compositional hardware.
+[fig1_hardware_mpdule.png]
+Width of RES and IN1...INn ports is the same. Now consider time diagrams of compositional hardwre module (fig2).
+[fig2_time_diagramms.svg]
+On the diagram a fragment of computing process displayed. On the power on hardware module is reseted. Then valid values on IN1...INn asserted. On the next moment "start" signal received and computation process started. With the start of computational process "ready" signal deasserted. After a while valid result appears on RES port and "ready" signal asserted again.
+Ofcourse this is not conventional interface to interact with other hardware devices. And compositional hardware in such representation is barely applicable.
